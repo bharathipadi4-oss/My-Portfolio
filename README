@@ -1,0 +1,50 @@
+# Personal Portfolio Website
+
+## Project Overview
+This is my personal portfolio website developed to showcase my skills, projects, education, certifications, and contact information. The website is fully responsive and provides a professional overview of my work as an aspiring software developer.
+
+## Features
+- Responsive Design
+- About Me Section
+- Skills Section
+- Projects Showcase
+- Education Details
+- Certifications
+- Contact Information
+- Social Media Links
+- Smooth Navigation
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Project Screenshots
+
+### Home Page
+![Home](home.png)
+
+### About Me
+![About](about.png)
+
+### Skills
+![Skills](skills.png)
+
+### Projects
+![Projects](projects.png)
+
+### Contact
+![Contact](contact.png)
+
+## Future Enhancements
+- Dark Mode
+- Download Resume Feature
+- Contact Form with Email Integration
+- Animations and Interactive Effects
+
+## Developed By
+**Bharathi Padi**
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/bharathi-padi-a12a64332
+- GitHub: https://github.com/your-github-bharathipadi4-oss
